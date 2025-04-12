@@ -130,3 +130,17 @@ body {
 .botaoDiv{
     height: auto;
 }
+.botaoDiv:hover{
+    cursor: pointer;
+}
+/* s */
+
+
+
+
+
+
+
+
+
+
